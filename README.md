@@ -2,8 +2,7 @@
 ## Intro
 This is a C++ and CUDA implementation for solving the Traveling Salesman
 Problem (TSP) using a Genetic Algorithm (GA). Details of the implementation
-may be found [here](http://techtorials.me/the-traveling-salesman-proble
-m-genetic-algorithm-in-c-and-cuda/).
+may be found [here](http://techtorials.me/the-traveling-salesman-problem-genetic-algorithm-in-c-and-cuda/).
 
 This code was developed in Visual Studio 2010; however, it should work in other
 environments and be cross-platform, assuming the appropriate libraries and
