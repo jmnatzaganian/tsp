@@ -13,9 +13,9 @@ compilers are used.
 - A C++ compiler (Visual Studio 2010)
 
 ### CUDA Prerequisites
-- 64bit 5.0 version of the [NVIDIA's CUDA Toolkit](https://developer.nvidia.com/
-cuda-toolkit-50-archive) (newer versions should work - 64bit is strongly
-recommended, but not necessarily required)
+- 64bit 5.0 version of the [NVIDIA's CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit-50-archive)
+(newer versions should work - 64bit is strongly recommended, but not
+necessarily required)
 
 - An NVIDIA capable GPU (this code was designed for a GTX-480)
 
@@ -55,5 +55,4 @@ to where the output video should be created.
 The original author of this code was James Mnatzaganian. For contact info, as
 well as other details, see his corresponding [website](http://techtorials.me).
 ## Legal
-This code is licensed under the [MIT license](http://opensource.org/licenses/
-mit-license.php).
+This code is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
