@@ -15,12 +15,17 @@ A C++ compiler (Visual Studio 2010)
 64bit 5.0 version of the [NVIDIA's CUDA Toolkit](https://developer.nvidia.com/
 cuda-toolkit-50-archive) (newer versions should work - 64bit is strongly
 recommended, but not necessarily required)
+
 An NVIDIA capable GPU (this code was designed for a GTX-480)
 ### Video Rendering Prerequisites
 [ffmpeg](https://www.ffmpeg.org/download.html)
+
 [Python 2.7.8](https://www.python.org/download/releases/2.7.8/)
+
 [numpy](http://www.numpy.org/)
+
 [matplotlib](http://matplotlib.org/)
+
 [networkx](https://networkx.github.io/)
 ## Usage
 The primary code is located in "TSP_GA". A full Visual Studio 2010 solution was
