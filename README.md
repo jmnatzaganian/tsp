@@ -8,15 +8,18 @@ genetic-algorithm-in-c-and-cuda/).
 This code was developed in Visual Studio 2010; however, it should work in other
 environments and be cross-platform, assuming the appropriate libraries and
 compilers are used.
+
 ## Prerequisites
 ### C++ Prerequisites
 - A C++ compiler (Visual Studio 2010)
+
 ### CUDA Prerequisites
 - 64bit 5.0 version of the [NVIDIA's CUDA Toolkit](https://developer.nvidia.com/
 cuda-toolkit-50-archive) (newer versions should work - 64bit is strongly
 recommended, but not necessarily required)
 
 - An NVIDIA capable GPU (this code was designed for a GTX-480)
+
 ### Video Rendering Prerequisites
 - [ffmpeg](https://www.ffmpeg.org/download.html)
 
@@ -27,6 +30,7 @@ recommended, but not necessarily required)
 - [matplotlib](http://matplotlib.org/)
 
 - [networkx](https://networkx.github.io/)
+
 ## Usage
 The primary code is located in "TSP_GA". A full Visual Studio 2010 solution was
 provided for your convenience. You may simply open that solution and proceed,
